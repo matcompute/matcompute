@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mulat Tiruye</h1>
+<h1 align="center">Hi 👋, I'm Mulat Ayinet Tiruye</h1>
 <h3 align="center">Software Developer | ML Engineer | Network & Systems Enthusiast</h3>
 
 <p align="center">
