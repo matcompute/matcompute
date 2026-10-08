@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Developer, Machine Learning Engineer, and Computer Engineering MSc student at the University of Pisa.
+I am a PhD researcher at DISI, University of Trento, working on AI-native 6G systems (BUC-6G: O-RAN control, non-terrestrial networks and zero-touch orchestration). I hold an M.Sc. in Computer Engineering from the University of Pisa, and I also work as a software developer and ML engineer.
 
 I focus on building production-ready software systems, AI-assisted platforms, backend APIs, modern web applications, cloud-native applications, and network-aware systems.
 
