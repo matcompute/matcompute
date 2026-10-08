@@ -2,6 +2,12 @@
 <h3 align="center">Software Developer | ML Engineer | Network & Systems Enthusiast</h3>
 
 <p align="center">
+  🌐 <a href="https://matcompute.vercel.app/"><b>matcompute.vercel.app</b></a> ·
+  🎓 <a href="https://scholar.google.com/citations?user=xhxqo1QAAAAJ&hl=en">Google Scholar</a> ·
+  🏛️ <a href="https://webapps.unitn.it/du/it/Persona/PER0316885">University of Trento</a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=matcompute&label=Profile%20Views&color=0e75b6&style=flat" alt="matcompute profile views" />
 </p>
 
